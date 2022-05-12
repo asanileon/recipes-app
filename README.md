@@ -5,5 +5,5 @@ Using Node js, Express js, React js, MongoDB building Full Stack application cal
 ## Setup
 
 ```javascript
-run npm i && npm start for both client and server side to start the app
+run npm i && npm start for both backend and frontend side to start the app
 ```
